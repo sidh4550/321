@@ -1,56 +1,125 @@
 {
- "name": "flare",
- "children": [
-  {
-   "name": "Marks",
-   "children": [
-    {
-     "name": "Maria",
-     "children": [
-      {"name": "AI", "size": 3938},
-      {"name": "DB", "size": 3812},
-      {"name": "CG", "size": 6714},
-      {"name": "ITP", "size": 743}
-     ]
-    },
-    {
-     "name": "Sam",
-     "children": [
-      {"name": "BetweennessCentrality", "size": 3534},
-      {"name": "LinkDistance", "size": 5731},
-      {"name": "MaxFlowMinCut", "size": 7840},
-      {"name": "ShortestPaths", "size": 5914},
-      {"name": "SpanningTree", "size": 3416}
-     ]
-    },
-    {
-     "name": "Riniki",
-     "children": [
-      {"name": "AspectRatioBanker", "size": 7074}
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Tom",
-   "children": [
-    {"name": "Easing", "size": 17010},
-    {"name": "FunctionSequence", "size": 5842},
-    {
-     "name": "Jaffar",
-     "children": [
-      {"name": "ArrayInterpolator", "size": 1983},
-      {"name": "ColorInterpolator", "size": 2047},
-      {"name": "DateInterpolator", "size": 1375},
-      {"name": "Interpolator", "size": 8746},
-      {"name": "MatrixInterpolator", "size": 2202},
-      {"name": "NumberInterpolator", "size": 1382},
-      {"name": "ObjectInterpolator", "size": 1629},
-      {"name": "PointInterpolator", "size": 1675},
-      {"name": "RectangleInterpolator", "size": 2042}
-     ]
-    }
-   ]
-  }
- ]
+	"name": "Marks",
+	"children": [{
+			"name": "Maria",
+			"children": [{
+					"name": "AI",
+					"size": 95
+				},
+				{
+					"name": "DB",
+					"size": 77
+				},
+				{
+					"name": "CG",
+					"size": 31
+				},
+				{
+					"name": "ITP",
+					"size": 97
+				},
+				{
+					"name": "LIT",
+					"size": 45
+				}
+			]
+		},
+		{
+			"name": "Sam",
+			"children": [{
+					"name": "AI",
+					"size": 85
+				},
+				{
+					"name": "DB",
+					"size": 37
+				},
+				{
+					"name": "CG",
+					"size": 39
+				},
+				{
+					"name": "ITP",
+					"size": 45
+				},
+				{
+					"name": "LIT",
+					"size": 55
+				}
+			]
+		}, {
+			"name": "Rinki",
+			"children": [{
+					"name": "AI",
+					"size": 5
+				},
+				{
+					"name": "DB",
+					"size": 64
+				},
+				{
+					"name": "CG",
+					"size": 93
+				},
+				{
+					"name": "ITP",
+					"size": 66
+				},
+				{
+					"name": "LIT",
+					"size": 89
+				}
+			]
+		},
+		{
+			"name": "Tom",
+			"children": [{
+					"name": "AI",
+					"size": 45
+				},
+				{
+					"name": "DB",
+					"size": 99
+				},
+				{
+					"name": "CG",
+					"size": 53
+				},
+				{
+					"name": "ITP",
+					"size": 84
+				},
+				{
+					"name": "LIT",
+					"size": 91
+				}
+			]
+		},
+		{
+			"name": "Jaffar",
+			"children": [{
+					"name": "AI",
+					"size": 65
+				},
+				{
+					"name": "DB",
+					"size": 45
+				},
+				{
+					"name": "CG",
+					"size": 83
+				},
+				{
+					"name": "ITP",
+					"size": 3
+				},
+				{
+					"name": "LIT",
+					"size": 93
+				}
+			]
+		}
+
+	]
+
 }
