@@ -1,13 +1,223 @@
 {
-"Marks": [
-{"student": "Maria", "AI": 950, "DB": 77, "CG": 31, "ITP": 97, "LIT": 45},
-{"student": "Sam", "AI": 850, "DB": 37, "CG": 39, "ITP": 45, "LIT": 55},
-{"student": "Rinki", "AI": 500, "DB": 64, "CG": 93, "ITP": 66, "LIT": 89},
-{"student": "Tom", "AI": 450, "DB": 99, "CG": 53, "ITP": 84, "LIT": 91},
-{"student": "Jaffar", "AI": 650, "DB": 45, "CG": 83, "ITP": 3, "LIT": 93},
-{"student": "Jacob", "AI": 750, "DB": 23, "CG": 83, "ITP": 15, "LIT": 95},
-{"student": "Eva", "AI": 550, "DB": 87, "CG": 53, "ITP": 23, "LIT": 96},
-{"student": "Chen", "AI": 150, "DB": 65, "CG": 3, "ITP": 99, "LIT": 97},
-{"student": "Mary", "AI": 150, "DB": 77, "CG": 30, "ITP": 100, "LIT": 98}
-]
+	"name": "Marks",
+	"children": [{
+			"name": "Maria",
+			"children": [{
+					"name": "AI",
+					"size": 95
+				},
+				{
+					"name": "DB",
+					"size": 77
+				},
+				{
+					"name": "CG",
+					"size": 31
+				},
+				{
+					"name": "ITP",
+					"size": 97
+				},
+				{
+					"name": "LIT",
+					"size": 45
+				}
+			]
+		},
+		{
+			"name": "Sam",
+			"children": [{
+					"name": "AI",
+					"size": 85
+				},
+				{
+					"name": "DB",
+					"size": 37
+				},
+				{
+					"name": "CG",
+					"size": 39
+				},
+				{
+					"name": "ITP",
+					"size": 45
+				},
+				{
+					"name": "LIT",
+					"size": 55
+				}
+			]
+		}, {
+			"name": "Rinki",
+			"children": [{
+					"name": "AI",
+					"size": 5
+				},
+				{
+					"name": "DB",
+					"size": 64
+				},
+				{
+					"name": "CG",
+					"size": 93
+				},
+				{
+					"name": "ITP",
+					"size": 66
+				},
+				{
+					"name": "LIT",
+					"size": 89
+				}
+			]
+		},
+		{
+			"name": "Tom",
+			"children": [{
+					"name": "AI",
+					"size": 45
+				},
+				{
+					"name": "DB",
+					"size": 99
+				},
+				{
+					"name": "CG",
+					"size": 53
+				},
+				{
+					"name": "ITP",
+					"size": 84
+				},
+				{
+					"name": "LIT",
+					"size": 91
+				}
+			]
+		},
+		{
+			"name": "Jaffar",
+			"children": [{
+					"name": "AI",
+					"size": 65
+				},
+				{
+					"name": "DB",
+					"size": 45
+				},
+				{
+					"name": "CG",
+					"size": 83
+				},
+				{
+					"name": "ITP",
+					"size": 3
+				},
+				{
+					"name": "LIT",
+					"size": 93
+				}
+			]
+		},
+
+		{
+			"name": "Jacob",
+			"children": [{
+					"name": "AI",
+					"size": 65
+				},
+				{
+					"name": "DB",
+					"size": 45
+				},
+				{
+					"name": "CG",
+					"size": 83
+				},
+				{
+					"name": "ITP",
+					"size": 3
+				},
+				{
+					"name": "LIT",
+					"size": 93
+				}
+			]
+		},
+		{
+			"name": "Eva",
+			"children": [{
+					"name": "AI",
+					"size": 55
+				},
+				{
+					"name": "DB",
+					"size": 87
+				},
+				{
+					"name": "CG",
+					"size": 53
+				},
+				{
+					"name": "ITP",
+					"size": 23
+				},
+				{
+					"name": "LIT",
+					"size": 96
+				}
+			]
+		},
+		{
+			"name": "Chen",
+			"children": [{
+					"name": "AI",
+					"size": 15
+				},
+				{
+					"name": "DB",
+					"size": 3
+				},
+				{
+					"name": "CG",
+					"size": 99
+				},
+				{
+					"name": "ITP",
+					"size": 97
+				},
+				{
+					"name": "LIT",
+					"size": 93
+				}
+			]
+		},
+		{
+			"name": "Mary",
+			"children": [{
+					"name": "AI",
+					"size": 15
+				},
+				{
+					"name": "DB",
+					"size": 77
+				},
+				{
+					"name": "CG",
+					"size": 30
+				},
+				{
+					"name": "ITP",
+					"size": 100
+				},
+				{
+					"name": "LIT",
+					"size": 98
+				}
+			]
+		}
+
+
+	]
+
 }
