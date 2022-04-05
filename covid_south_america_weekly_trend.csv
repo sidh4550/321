@@ -1,4 +1,4 @@
-Country,casel7days,casep7days,week%change,casel7daysp1m,deathsl7days,deathsp7days,WeeklyDeathpChange,Deathslast7daysp1m,Population,id
+Country,casel7days,casep7days,week%change,casel7daysp1m,deathsl7days,deathsp7days,WeeklyDeathpChange,Deathslast7daysp1m,Population,code
 Argentina,18322,36321,-50,399,415,307,35,9.0,45913837,ARG
 Bolivia,1595,2312,-31,133,5,9,-44,0.4,11948668,BOL
 Brazil,211934,261708,-19,985,1665,2122,-22,8.0,215175647,BRA
